@@ -1,0 +1,12 @@
+INSERT INTO phones (id, name,brand) VALUES (1, 'Iphone 11','Apple');
+INSERT INTO phones (id, name,brand) VALUES (2, 'Iphone 12','Apple');
+INSERT INTO phones (id, name,brand) VALUES (3, 'Iphone 13','Apple');
+INSERT INTO phones (id, name,brand) VALUES (4, 'A3','SAMSUNG');
+INSERT INTO phones (id, name,brand) VALUES (5, 'Galaxy S23','SAMSUNG');
+INSERT INTO phones (id, name,brand) VALUES (6, 'Galaxy S23','SAMSUNG');
+INSERT INTO phones (id, name,brand) VALUES (7, 'Galaxy A34','SAMSUNG');
+INSERT INTO phones (id, name,brand) VALUES (8, 'Galaxy A54','SAMSUNG');
+INSERT INTO phones (id, name,brand) VALUES (9, 'Note 7','XIAOMI');
+INSERT INTO phones (id, name,brand) VALUES (10, 'Note 8','XIAOMI');
+INSERT INTO phones (id, name,brand) VALUES (11, 'Poco','XIAOMI');
+INSERT INTO phones (id, name,brand) VALUES (12, 'Note 12 Pro','XIAOMI');
