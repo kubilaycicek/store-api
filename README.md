@@ -5,3 +5,4 @@ I created a rest api simple. I implemented 'jpaspecificationexecutor' interface.
 * Lombok 
 * Java 17
 * H2 Database
+* Open API 3
