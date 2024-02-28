@@ -10,3 +10,8 @@ spring:
     password: 1234
   h2:
     console-enabled: true
+springdoc:
+  swagger-ui-enabled: true
+  swagger-ui.path: /swagger-ui.html
+  show-actuator: true
+  api-docs-enabled: true
